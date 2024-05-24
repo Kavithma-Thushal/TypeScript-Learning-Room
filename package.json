@@ -1,0 +1,10 @@
+{
+  "name": "typescript-learning-room",
+  "version": "1.0.0",
+  "description": "This is learning about TypeScript in GDSE66",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Kavithma Thushal",
+  "license": "Apache License 2.0"
+}
