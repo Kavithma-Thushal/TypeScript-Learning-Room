@@ -4,6 +4,7 @@
   "description": "This is learning about TypeScript in GDSE66",
   "main": "index.js",
   "scripts": {
+    "start": "tsc && node dist/app.js"
   },
   "author": "Kavithma Thushal",
   "license": "Apache License 2.0"
